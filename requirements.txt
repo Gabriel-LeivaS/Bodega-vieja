@@ -1,0 +1,8 @@
+flask
+flask_sqlalchemy
+flask_migrate
+flask_mail
+werkzeug
+livereload
+reportlab
+python-dotenv

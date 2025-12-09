@@ -1,0 +1,52 @@
+============================================================
+🏠 CASA BÁSICA
+============================================================
+ Ítem                                Descripción de Partida   Unidad  Cantidad  Costo Unitario ($)  Subtotal ($)
+    1                      Limpieza y nivelación de terreno       m²        40                4000        160000
+    2                             Radier de 10 cm con malla       m²        40               21000        840000
+    3                  Estructura de piso con viga de roble       m²        40               29000       1160000
+    4                          Estructura de muros en roble       m²       100               32500       3250000
+    5            Cubierta (techumbre y costaneras de roble)       m²        45               35000       1575000
+    6                 Revestimientos interiores y aislación       m²       100               19000       1900000
+    7               Instalación eléctrica completa (básica) vivienda         1              520000        520000
+    8 Instalación sanitaria (agua potable y alcantarillado) vivienda         1              680000        680000
+    9                          Puertas y ventanas de madera      set         1             1050000       1050000
+   10           Terminaciones: pintura, cerámicos, detalles       m²       100               16000       1600000
+
+============================================================
+🏠 CASA MEDIA
+============================================================
+ Ítem                                Descripción de Partida   Unidad  Cantidad  Costo Unitario ($)  Subtotal ($)
+    1                      Limpieza y nivelación de terreno       m²        70                4000        280000
+    2                             Radier de 10 cm con malla       m²        70               21000       1470000
+    3                  Estructura de piso con viga de roble       m²        70               28500       1995000
+    4                          Estructura de muros en roble       m²       160               32000       5120000
+    5            Cubierta (techumbre y costaneras de roble)       m²        75               34000       2550000
+    6                 Revestimientos interiores y aislación       m²       160               18500       2960000
+    7               Instalación eléctrica completa (básica) vivienda         1              600000        600000
+    8 Instalación sanitaria (agua potable y alcantarillado) vivienda         1              720000        720000
+    9                          Puertas y ventanas de madera      set         1             1200000       1200000
+   10           Terminaciones: pintura, cerámicos, detalles       m²       160               15500       2480000
+
+============================================================
+🏠 CASA AMPLIADA
+============================================================
+ Ítem                                Descripción de Partida   Unidad  Cantidad  Costo Unitario ($)  Subtotal ($)
+    1                      Limpieza y nivelación de terreno       m²       100                4000        400000
+    2                             Radier de 10 cm con malla       m²       100               21000       2100000
+    3                  Estructura de piso con viga de roble       m²       100               28000       2800000
+    4                          Estructura de muros en roble       m²       240               31500       7560000
+    5            Cubierta (techumbre y costaneras de roble)       m²       110               33000       3630000
+    6                 Revestimientos interiores y aislación       m²       240               18000       4320000
+    7               Instalación eléctrica completa (básica) vivienda         1              680000        680000
+    8 Instalación sanitaria (agua potable y alcantarillado) vivienda         1              790000        790000
+    9                          Puertas y ventanas de madera      set         1             1300000       1300000
+   10           Terminaciones: pintura, cerámicos, detalles       m²       240               15000       3600000
+
+============================================================
+📊 RESUMEN GLOBAL
+============================================================
+            Subtotal  Indirectos (10%)  Utilidad (15%)  Total Estimado
+Básica    12735000.0         1273500.0       1910250.0      15918750.0
+Media     19375000.0         1937500.0       2906250.0      24218750.0
+Ampliada  27180000.0         2718000.0       4077000.0      33975000.0

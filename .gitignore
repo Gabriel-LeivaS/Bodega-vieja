@@ -1,0 +1,51 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Base de datos
+*.db
+*.sqlite
+*.sqlite3
+instance/
+
+# Variables de entorno
+.env
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Migraciones (opcional, depende de tu flujo)
+# migrations/
